@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Medical FAQ Bot
 
 A simple and elegant **Medical FAQ Assistant** built with Python, Streamlit, and Hugging Face Transformers.  
@@ -38,3 +39,6 @@ pip install -r requirements.txt
 4. Run the App
 bash
 python -m streamlit run web_app.py
+=======
+🩺 Streamlit‑powered Medical FAQ Bot — answers curated health questions from CSV with a clean UI, built using Python, Pandas, and Hugging Face Transformers.
+>>>>>>> 812b050a6bcd3f69643239900fb5c55e0858e18b
